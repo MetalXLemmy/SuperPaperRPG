@@ -1,0 +1,36 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=62241 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=43061 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=64745 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=33853 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=66797 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=16285 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=1037 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=15261 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2905 outsize=1849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=857 outsize=573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=32261 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=2825 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=541 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3506 outsize=1065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5723 outsize=5017 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7705 outsize=1670 kw=LIGHTMAP_ON DIRLIGHTMAP_COMBINED DECALS_3RT _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

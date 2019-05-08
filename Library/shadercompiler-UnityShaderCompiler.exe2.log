@@ -1,0 +1,54 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12091 outsize=1357 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=54273 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=64973 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=30657 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=46281 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=55353 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15341 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=9265 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7409 outsize=4409 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6309 outsize=5041 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12239 outsize=1313 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2532 outsize=1877 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=14613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2517 outsize=2573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3022 outsize=2065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3695 outsize=2689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7704 outsize=5681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=857 outsize=573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20668 outsize=95037 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=33021 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=1361 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=6777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=2705 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3506 outsize=1437 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5996 outsize=1894 kw=DITHER APPLY_AFTER_POST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

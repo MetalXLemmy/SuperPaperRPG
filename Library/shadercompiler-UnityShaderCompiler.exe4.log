@@ -1,0 +1,28 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=113273 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=36329 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=33001 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=12805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10769 outsize=10585 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=14377 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21751 outsize=21741 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=31641 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=1233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=4517 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5996 outsize=502 kw=DITHER APPLY_AFTER_POST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7060 outsize=262 kw=_NORMALMAP_TANGENT_SPACE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

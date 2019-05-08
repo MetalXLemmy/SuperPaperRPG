@@ -1,0 +1,28 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=45233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=41937 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=34633 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=41613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=56265 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=36381 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3797 outsize=1621 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5767 outsize=5913 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=14753 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3695 outsize=2589 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=33949 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=929 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7237 outsize=810 kw=_NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

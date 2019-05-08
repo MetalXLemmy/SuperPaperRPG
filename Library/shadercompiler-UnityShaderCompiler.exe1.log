@@ -1,0 +1,32 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2549 outsize=965 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=110837 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=67073 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15525 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=7569 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7409 outsize=4577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17415 outsize=8781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=1049 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7704 outsize=297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=36169 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17193 outsize=7121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=729 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=2657 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7237 outsize=142 kw=_NORMALMAP_TANGENT_SPACE _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7125 outsize=562 kw=UNITY_PASS_MOTIONVECTORS _NORMALMAP_TANGENT_SPACE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
